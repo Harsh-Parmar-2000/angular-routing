@@ -1,0 +1,22 @@
+header{
+    background-color: black;
+    margin:0px;
+    padding:30px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+a{
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    color:#fff
+}
+
+a.active{
+    color:blue
+}
